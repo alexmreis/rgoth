@@ -44,17 +44,17 @@
 
 #### H
 
-[Hexate](https://hexate.bandcamp.com/album/sisters)
-
 [Hearts of Black Science](https://heartsofblackscience.bandcamp.com/album/signal)
 
 [Hemgraven](https://peteroutrecords.bandcamp.com/album/sanddyner-av-glas)
 
+[Hexate](https://hexate.bandcamp.com/album/sisters)
+
 #### I
 
-[Inget Svar](https://www.youtube.com/watch?v=tv-R2KhyptI)
-
 [Imaginary Walls](https://www.youtube.com/watch?v=Zjc9GjgHp-o)
+
+[Inget Svar](https://www.youtube.com/watch?v=tv-R2KhyptI)
 
 #### J
 
@@ -66,9 +66,9 @@
 
 #### K
 
-[Köln 81](https://www.youtube.com/watch?v=zgmCdxiK830)
-
 [Kindred Spirits](https://www.youtube.com/watch?v=5qp7UMFwMNw)
+
+[Köln 81](https://www.youtube.com/watch?v=zgmCdxiK830)
 
 #### L
 
@@ -76,12 +76,11 @@
 
 #### M
 
-[Modærn Art](https://www.youtube.com/watch?v=S7c4M1-Hn5k)
-
+[MAN KLAN](https://www.youtube.com/watch?v=uM4cU1qmpuA)
 
 [Mao](https://www.youtube.com/watch?v=mfYEjRkqdPY)
 
-[MAN KLAN](https://www.youtube.com/watch?v=uM4cU1qmpuA)
+[Modærn Art](https://www.youtube.com/watch?v=S7c4M1-Hn5k)
 
 [Medicine Rain](https://www.youtube.com/watch?v=KOdByWxc31Q)
 
@@ -91,9 +90,9 @@
 
 [Nocturnal Sea](https://www.youtube.com/watch?v=8ic01hBUzq0)
 
-[The Preachers of Neverland](https://www.youtube.com/watch?v=whZehloTlsg)
-
 #### P
+
+[The Preachers of Neverland](https://www.youtube.com/watch?v=whZehloTlsg)
 
 [Principe Valiente](https://www.youtube.com/watch?v=4KH7cF_JxM0)
 
@@ -103,9 +102,9 @@
 
 [Sator Codex](https://www.youtube.com/watch?v=cWQD5PT7t5U)
 
-[Sect-or Three](https://www.youtube.com/watch?v=TVoqjIIUlNE)
-
 [Scythe](https://www.youtube.com/watch?v=lk7r0wqUSUo)
+
+[Sect-or Three](https://www.youtube.com/watch?v=TVoqjIIUlNE)
 
 [Sherlock Icarus](https://www.youtube.com/watch?v=hpe7yWWxTuU)
 
@@ -121,11 +120,12 @@
 
 #### T
 
+[Touch of Evil](https://www.youtube.com/watch?v=Es7tMNv4uOg)
+
 [True Moon](https://www.youtube.com/watch?v=tfHySD84Uq0)
 
 [Två Krig](https://www.youtube.com/watch?v=dmRLPWEjqHI)
 
-[Touch of Evil](https://www.youtube.com/watch?v=Es7tMNv4uOg)
 
 #### U
 
