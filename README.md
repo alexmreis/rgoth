@@ -5,6 +5,6 @@ This repo contains a classification of post-punk and wave bands based on their g
 
 ### Contributing
 
-Please keep in mind the strict definition of Goth found in the subreddit's FAQ.
+Please keep in mind that only bands in Goth genres will be considered. See the sub's FAQ for a more extended explanation of what is acceptable.
 
 
